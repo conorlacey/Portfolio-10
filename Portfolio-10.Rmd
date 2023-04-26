@@ -3,7 +3,6 @@ title: "Portfolio 10"
 author: "Conor Lacey"
 date: "2023-04-26"
 output: html_document
-runtime: shiny
 ---
 
 ```{r libraries}
